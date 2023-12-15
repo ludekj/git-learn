@@ -1,3 +1,3 @@
 import json
 
-print("ahoj")
+print("ahoj svete")
